@@ -16,7 +16,7 @@ __________
 This repository contains a video file that displays all the output of the Turtlebot3 simulation process.
 
 ______
- Author: SEREEN BAHDAD
+ Author: SEREEN BAHDAD & DANYA BAJABA
 
 
 
